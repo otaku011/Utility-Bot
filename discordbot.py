@@ -2,7 +2,6 @@ import discord, time, json, requests
 import getanime as ga
 from discord.ext import commands
 import ast
-import pastebin
 from bs4 import BeautifulSoup
 def run(client):
 	client.run(YOUR_TOKEN_GOES_HERE)

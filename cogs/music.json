@@ -1,0 +1,13 @@
+{
+    "info":{
+        "author": "Soldat56",
+        "email": ""
+    },
+    "help":{
+        "voice_play": "Plays music from provided URL, or in absence of URL searches for provided keywords, in absence of arguments resumes playing.",
+        "voice_pause": "Pauses/Unpauses current track",
+        "voice_skip": "Skips current track, goes to next track in queue",
+        "voice_disconnect": "Disconnects bot from channel"
+    }
+
+}
